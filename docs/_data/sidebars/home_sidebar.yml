@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Imports
+      title: Title
       url: LR_BYOL_PRED.html
     output: web
     title: lr_sorting
