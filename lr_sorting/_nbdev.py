@@ -2,10 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"add_to_group": "LR_BYOL_PRED.ipynb",
-         "batchify_data": "LR_BYOL_PRED.ipynb",
-         "byol_model": "LR_BYOL_PRED.ipynb",
-         "create_groups": "LR_BYOL_PRED.ipynb"}
+index = {"add_to_group": "00_LR_BYOL_PRED.ipynb",
+         "batchify_data": "00_LR_BYOL_PRED.ipynb",
+         "byol_model": "00_LR_BYOL_PRED.ipynb",
+         "create_groups": "00_LR_BYOL_PRED.ipynb"}
 
 modules = ["core.py"]
 
